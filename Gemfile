@@ -68,7 +68,7 @@ gem 'twilio-ruby', '~> 3.11'
 gem 'unread', github: 'peatio/unread'
 gem 'carrierwave', '~> 0.10.0'
 gem 'simple_captcha2', require: 'simple_captcha'
-gem 'rest-client', '~> 1.6.8'
+gem 'rest-client', '~> 1.8.0'
 
 group :development, :test do
   gem 'factory_girl_rails'
